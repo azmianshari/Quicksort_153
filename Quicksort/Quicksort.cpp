@@ -70,7 +70,7 @@ void q_short(int low, int high)
         // if the greater element is on the left of the element
         if (i < j)                                                          // Langkah algoritma No. 9
         {
-            // swap the element at index i with the element at index j
+            
             swap(i, j);
             mov_count++;
         }
