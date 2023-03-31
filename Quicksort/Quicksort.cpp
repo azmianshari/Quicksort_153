@@ -76,7 +76,7 @@ void q_short(int low, int high)
         }
     }
 
-    // j now containt the index of the last element in the sorted list
+   
     if (low < j)                                                            // Langkah algoritma No. 11
     {
         
